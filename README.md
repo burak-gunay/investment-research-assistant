@@ -1,6 +1,6 @@
 # Investment Research Assistant
 
-An AI engineering project: a research assistant over company reports with cited answers, plus a transaction tracker with a human review queue.
+An AI engineering project: a portfolio-aware research assistant. Cited answers from company reports (document + page), joined to the user's own portfolio transactions imported from broker CSV exports via LLM field mapping with a human review queue.
 
 **Stack:** Python, Docker Compose, LlamaIndex, LangChain/LangGraph, Elasticsearch, Postgres + pgvector, Streamlit.
 
